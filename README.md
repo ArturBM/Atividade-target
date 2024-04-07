@@ -3,8 +3,7 @@ Estágio Ribeirão Preto - 2024
 1) 91, k vai aumentar de um em um até 13 e a variavel soma vai incorporar cada um desses valores em cada loop.
 
 2) 
-'''
-
+```
 #include<stdio.h>
 main()
 {
@@ -37,6 +36,6 @@ main()
 		printf("%i nao pertence a sequencia de fibonacci.\n",numimput);
 	}	
 }
+```
 
-'''
     
