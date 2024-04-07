@@ -4,6 +4,7 @@ Estágio Ribeirão Preto - 2024
 
 2) 
 '''
+
 #include<stdio.h>
 main()
 {
@@ -36,5 +37,6 @@ main()
 		printf("%i nao pertence a sequencia de fibonacci.\n",numimput);
 	}	
 }
+
 '''
     
